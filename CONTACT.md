@@ -31,4 +31,10 @@ For business inquiries, custom data requests, or collaboration:
 - Global: PayPal, USDT (TRC20)
 - Order flow: email us and receive proposal + payment instructions within 24 hours.
 
+## 🚀 Why Work With SoloAI
+- 24h response SLA
+- Free scope recommendation before quote
+- Supports 中文 / English collaboration
+- Can start from one-off delivery or monthly retainer
+
 *Powered by SoloAI Automation*
