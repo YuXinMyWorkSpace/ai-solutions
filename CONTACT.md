@@ -2,7 +2,7 @@
 
 For business inquiries, custom data requests, or collaboration:
 
-- 📧 **Email**: 307809343@qq.com
+- 📧 **Email**: 379744050@qq.com
 - 🌐 **Website**: [SoloAI](https://github.com/YuXinMyWorkSpace/ai-solutions)
 - 🤖 **Services**:
   - Custom SFT Data Generation
